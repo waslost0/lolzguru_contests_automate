@@ -1,0 +1,15 @@
+attrs
+beautifulsoup4
+bs4
+certifi
+chardet
+idna
+lxml
+multidict
+numpy==1.19.3
+Pillow
+pytesseract
+requests
+soupsieve
+urllib3
+yarl
