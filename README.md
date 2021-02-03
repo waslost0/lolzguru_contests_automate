@@ -9,10 +9,9 @@
 - Логирование в телеграм
 
 
-- [Donate](https://qiwi.com/n/WASLOST)
-
 Для подробной информации пишите
 - [Telegram](https://t.me/waslost)
+- [Donate](https://qiwi.com/n/WASLOST)
 
 
 Тут лежит старая версия как пример. 
