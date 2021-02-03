@@ -2,9 +2,13 @@
 
 
 Стоймость 850р
+
 Поддержка проксей
+
 Установка на windows/ubuntu
+
 Логирование в телеграм
+
 
 - [Donate](https://qiwi.com/n/WASLOST)
 
